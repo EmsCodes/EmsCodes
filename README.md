@@ -4,9 +4,9 @@
 > *People ignore design that ignores people*
 
 ## A little bit about me
-:coffee: -I’m currently working on improving my JS skills.
-:technologist:Pronouns:-He/Him
-⚡-Fun fact: I collect pokemons. The cards, not the creatures.
+-:coffee: I’m currently working on improving my JS skills.
+-:technologist:Pronouns:He/Him
+-⚡Fun fact: I collect pokemons. The cards, not the creatures.
 
 
 📫 How to reach me: 
