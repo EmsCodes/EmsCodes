@@ -1,6 +1,6 @@
-### Hi👋 Welcome to my Github :star_struck:
+# Hi👋 Welcome to my Github :star_struck:
  
-
+## A little bit about me
 - :coffee:I’m currently working on improving my JS skills.
 - 📫 How to reach me: 
 - [Portfolio](https://makra-stenkloev.no/)
