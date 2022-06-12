@@ -10,5 +10,5 @@
 
 
 📫 How to reach me: 
-[Portfolio](https://makra-stenkloev.no/)
-[LinkedIn](https://www.linkedin.com/in/endre-makra-stenkl%C3%B8v/)
+- [Portfolio](https://makra-stenkloev.no/)
+- [LinkedIn](https://www.linkedin.com/in/endre-makra-stenkl%C3%B8v/)
