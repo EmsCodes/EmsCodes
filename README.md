@@ -1,5 +1,8 @@
-# Hi👋 Welcome to my Github :star_struck:
 ![This is an image](/images/github.jpg)
+# Hi👋 Welcome to my Github :star_struck:
+
+> People ignore design that ignores people
+
 ## A little bit about me
 - :coffee:I’m currently working on improving my JS skills.
 - 📫 How to reach me: 
