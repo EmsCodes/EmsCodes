@@ -14,6 +14,6 @@ A norwegian front-end developer with focus on design and user-friendly solutions
 - ⚡Fun fact: I collect pokemons. The cards, not the creatures.
 
 
-📫 ##Get in touch!
+###Get in touch! 📫
 - [Portfolio](https://makra-stenkloev.no/)
 - [LinkedIn](https://www.linkedin.com/in/endre-makra-stenkl%C3%B8v/)
